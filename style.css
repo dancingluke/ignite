@@ -1,0 +1,18 @@
+* {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+p {
+   font-style: italic;
+   margin: 50px;
+}
+
+input {
+    padding: 5px;
+    background: rgb(163,195,195);
+}
+
+li {
+    font-style: italic;
+}
